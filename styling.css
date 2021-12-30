@@ -10,3 +10,10 @@ html, body {
   -o-background-size: cover;
   background-size: cover;
 }
+
+.full-section{
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 30%;
+    padding-right: 30%;
+}
