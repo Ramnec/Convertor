@@ -1,0 +1,12 @@
+html, body {
+    width: 100%;
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+
+    background: rgb(0,230,255) no-repeat center center fixed;;
+    background: linear-gradient(90deg, rgba(0,230,255,0.17549026446516103) 0%, rgba(255,255,255,0.15868354177608546) 50%, rgba(237,0,255,0.10546225326067926) 100%) no-repeat center center fixed;;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
